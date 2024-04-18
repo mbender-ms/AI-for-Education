@@ -13,3 +13,8 @@
 | Quarterly Virtual Trainings – invite to stay connected. |
 | NEWDA (Digital Alliance) Tech Summit- Save the Date       |
 | “One Microsoft in HE” - Quarterly Roundtable–Discussion/networking |
+
+
+## After Survey
+
+
