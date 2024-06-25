@@ -34,3 +34,11 @@
 ## Getting Started with Microsoft and AI
 
 Slides: 
+
+
+## Exploring AI-Driven Creativity: A Hands-on Journey Through Content Generation
+
+Slides: 
+
+[Explore generative AI with Copilot in Bing
+](https://aka.ms/handsonAI)
